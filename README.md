@@ -1,4 +1,4 @@
-#Winsnow
+# Winsnow
 
 This script is a tribute to a mini-program Winsnow 1.0 Created by P.W.Tse around 1997.
 
