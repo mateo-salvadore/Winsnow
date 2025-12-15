@@ -9,4 +9,4 @@ It displays movable menu where user can enable or disable options or close the s
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/12133300-69ba-4cbc-a184-fa1f636b8005" />
 
 WARNING!
-Utils folder and script contain b64-encoded santa claus picture and a melody taht I'm not an author of. They are found in Internet some time ago and unfortunately I don't remember authors. Treat them as only examples.
+Utils folder and script contain b64-encoded santa claus picture and a melody taht I'm not an author of. They are found in Internet some time ago and unfortunately I don't remember authors. Treat them as examples only.
