@@ -136,7 +136,7 @@ $btnInfo.Margin = [System.Windows.Thickness]::new(10,5,5,5)
 $btnInfo.Add_Click({ 
 	$ButtonType = [System.Windows.MessageBoxButton]::OK
 	$MessageIcon = [System.Windows.MessageBoxImage]::Information
-	$MessageBody = "Ho ho ho, Merry Christmas from MW team! (zr7)"
+	$MessageBody = "Ho ho ho, Merry Christmas from IT team! (mateo)"
 	$MessageTitle = "Merry Christmas!"
 	$Result = [System.Windows.MessageBox]::Show($MessageBody,$MessageTitle,$ButtonType,$MessageIcon)
 })
@@ -590,4 +590,5 @@ $null = $window.Add_Closing({
 })
 
 $timer.Start()
+
 $window.ShowDialog() | Out-Null
